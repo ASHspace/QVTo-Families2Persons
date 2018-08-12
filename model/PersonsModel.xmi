@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.persons="http://com.persons" xsi:schemaLocation="http://com.persons ../metamodel/Persons.ecore">
+  <com.persons:Male fullName="Dylan Sailor"/>
+  <com.persons:Male fullName="Brandon March"/>
+  <com.persons:Male fullName="David Sailor"/>
+  <com.persons:Female fullName="Kelly Sailor"/>
+  <com.persons:Female fullName="Brenda March"/>
+  <com.persons:Female fullName="Jen March"/>
+  <com.persons:Male fullName="Peter Sailor"/>
+  <com.persons:Male fullName="Mill Collins"/>
+  <com.persons:Male fullName="Jim March"/>
+  <com.persons:Female fullName="Cindy March"/>
+  <com.persons:Female fullName="Jackie Sailor"/>
+  <com.persons:Female fullName="Sandra Collins"/>
+</xmi:XMI>
