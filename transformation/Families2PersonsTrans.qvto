@@ -47,3 +47,4 @@ mapping Families::Member::Member2Male() : Persons::Male when { not self.isFemale
 {
 	result.fullName := self.firstName + ' ' + self.familyName();
 }
+
